@@ -1,0 +1,22 @@
+*,
+*:after,
+*:before {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+}
+
+body {
+  font-family: Arial, helvetica, sans-serif;
+  line-height: 1.4;
+}
+
+header {
+  background: #f0f0f0;
+  width: 100%;
+}
+.logo img {
+  display: block;
+}
